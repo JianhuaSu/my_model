@@ -1,0 +1,15 @@
+acc,f1,prec,rec,eval_f1,dataset,method,text_backbone,seed,logger_name,warmup_proportion,lr
+58.06,49.06,51.51,48.0,0.4969,MELD-DA,text,bert-base-uncased,1,text_MELD-DA_multi-class_seed-1,0.1,1e-05
+59.62,50.45,52.9,50.67,0.495,MELD-DA,text,bert-base-uncased,1,text_MELD-DA_multi-class_seed-1,0.1,2e-05
+57.75,49.6,49.86,50.29,0.5065,MELD-DA,text,bert-base-uncased,1,text_MELD-DA_multi-class_seed-1,0.01,1e-05
+58.69,50.4,54.05,48.5,0.5021,MELD-DA,text,bert-base-uncased,1,text_MELD-DA_multi-class_seed-1,0.01,2e-05
+59.52,50.05,50.93,50.13,0.493,MELD-DA,text,bert-base-uncased,4,text_MELD-DA_multi-class_seed-4,0.1,1e-05
+57.69,49.29,50.67,48.58,0.4897,MELD-DA,text,bert-base-uncased,4,text_MELD-DA_multi-class_seed-4,0.1,2e-05
+59.68,49.27,52.01,48.69,0.4954,MELD-DA,text,bert-base-uncased,4,text_MELD-DA_multi-class_seed-4,0.01,1e-05
+58.53,49.02,51.44,47.44,0.5046,MELD-DA,text,bert-base-uncased,4,text_MELD-DA_multi-class_seed-4,0.01,2e-05
+58.95,47.67,50.74,46.01,0.4936,MELD-DA,text,bert-base-uncased,5,text_MELD-DA_multi-class_seed-5,0.1,1e-05
+59.36,50.09,53.43,49.1,0.509,MELD-DA,text,bert-base-uncased,5,text_MELD-DA_multi-class_seed-5,0.1,2e-05
+58.32,50.9,52.35,50.49,0.5056,MELD-DA,text,bert-base-uncased,5,text_MELD-DA_multi-class_seed-5,0.01,1e-05
+57.9,47.86,49.39,47.67,0.5129,MELD-DA,text,bert-base-uncased,5,text_MELD-DA_multi-class_seed-5,0.01,2e-05
+59.57,49.42,50.99,49.76,0.4925,MELD-DA,text,bert-base-uncased,2,text_MELD-DA_multi-class_seed-2,0.1,2e-05
+56.49,49.08,50.77,48.21,0.4909,MELD-DA,text,bert-base-uncased,3,text_MELD-DA_multi-class_seed-3,0.1,2e-05

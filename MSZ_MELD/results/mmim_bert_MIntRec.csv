@@ -1,0 +1,7 @@
+acc,f1,prec,rec,eval_f1,dataset,method,text_backbone,seed,logger_name
+72.36,68.45,68.9,68.94,0.7098,MIntRec,mmim,bert-base-uncased,1,mmim_MIntRec_multi-class_seed-1
+70.56,65.38,65.22,67.37,0.6902,MIntRec,mmim,bert-base-uncased,2,mmim_MIntRec_multi-class_seed-2
+68.31,66.85,67.69,67.78,0.6909,MIntRec,mmim,bert-base-uncased,3,mmim_MIntRec_multi-class_seed-3
+73.93,72.1,73.31,72.85,0.6817,MIntRec,mmim,bert-base-uncased,4,mmim_MIntRec_multi-class_seed-4
+70.34,67.71,67.37,69.56,0.7045,MIntRec,mmim,bert-base-uncased,5,mmim_MIntRec_multi-class_seed-5
+..

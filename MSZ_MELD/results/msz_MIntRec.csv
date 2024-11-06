@@ -1,0 +1,2 @@
+acc,f1,prec,rec,eval_f1,dataset,method,text_backbone,seed,logger_name,hidden_dims,num_attention_heads,attention_probs_dropout_prob,hidden_dropout_prob,intermediate_size,num_hidden_layers,max_position_embeddings,dropout,aligned_method,lr,patience,factor
+71.69,68.69,69.11,68.98,0.6971,MIntRec,msz,bert-base-uncased,4,msz_MIntRec_multi-class_seed-4,768,12,0.2,0.2,768,8,768,0.1,conv1d,8e-06,8,0.1
